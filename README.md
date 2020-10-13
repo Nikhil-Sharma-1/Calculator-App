@@ -3,3 +3,6 @@
 <h1>App Logo</h1>
 <img src="icon.png" alt="Calculator Logo">
 <hr>
+
+# App in Action
+[View App in Action Here](https://www.linkedin.com/feed/update/urn:li:activity:6721870213295484928/)
